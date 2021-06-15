@@ -27,8 +27,8 @@
     ],
     "images": [
         "static/description/pricelist_item_form.png",
-        "static/description/product_pricelist_tree.png",
         "static/description/simple_price_list_item.png",
+        "static/description/product_pricelist_tree.png",
         "static/description/wizard_form.png",
     ],
     "installable": True,
